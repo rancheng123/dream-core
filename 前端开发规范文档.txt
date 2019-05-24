@@ -1,0 +1,8 @@
+目录名称，文件名称 ： 英文，小写字母开头
+
+react类名 ：        英文，大写字母开头
+
+
+组件开发
+    组件包入口默认是index.js
+    二次封装antd  以Mxj 为前缀，如 MxjAutoComplete， 结尾给出一个example
